@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stanleylws
 - 👀 I’m interested in mobile app and game development
-- 🌱 I’m currently learning game development with libGTX
+- 🌱 I’m currently learning game development with haxe and heaps
 - 📫 How to reach me: stanley.lws10@gmail.com
 
 <!---
